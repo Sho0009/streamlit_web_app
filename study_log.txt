@@ -1,0 +1,5 @@
+このファイルはstreamlitの学習で学んだことをメモするファイルです。
+
+・作成したプログラムをWeb上で見ることができるようにする方法
+  1.Gitにadd,commit,pushの手順を踏んで保存する。
+  2.streamlit cloud( https://streamlit.io/cloud )にアクセスして、サイトの手順に従っていくと公開できる。
